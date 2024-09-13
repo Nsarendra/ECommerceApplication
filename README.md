@@ -44,11 +44,11 @@
 
 ## public Endpoint
 
-## GET /getAllProducts: Retrieve all products in the inventory.
+### GET /getAllProducts: Retrieve all products in the inventory.
 
 ## JWT Authentication
 
-## When logging in, a JWT token will be issued. This token must be included in the Authorization header for all subsequent requests that require authentication.
+### When logging in, a JWT token will be issued. This token must be included in the Authorization header for all subsequent requests that require authentication.
 
 ## Conclusion
 
