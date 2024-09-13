@@ -32,7 +32,7 @@
 
 ## User Endpoints
 
-### POST /addInCart: Add products to the user's cart.
+### POST /addInCart: Add products to the user's cart or update the cart.
 ### GET /getCartStatus/{userId}: View the current status of the user's cart.
 ### DELETE /deleteInCart/{productId}/{userId}: Remove a product from the user's cart.
 ### POST /placeOrder/{userId}: Place an order.
