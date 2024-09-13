@@ -36,6 +36,7 @@
 ### GET /getCartStatus/{userId}: View the current status of the user's cart.
 ### DELETE /deleteInCart/{productId}/{userId}: Remove a product from the user's cart.
 ### POST /placeOrder/{userId}: Place an order.
+### GET /search-products:Search products based on name
 
 ## Admin Endpoints
 
