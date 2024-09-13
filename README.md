@@ -16,8 +16,8 @@
 
 ### Clone the Repository
 ### Open your terminal and run the following command to clone the project:
-## git clone This repository-url
-## cd This repository-directory
+### git clone This repository-url
+### cd This repository-directory
 
 ### Run the Application
 ### Run the Application from your IDE.
