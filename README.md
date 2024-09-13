@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This project is a backend service for an e-commerce application built using Java Spring Boot. It includes features like JWT-based authentication, role-based access control for "user" and "admin" roles, and CRUD operations for managing products and inventory by Admin and also CRUD operations for cart by user. This project also has  Paginated Product Search API that allows users to search for products based on name and also has mechanisms to handle concurrency during critical operations 
+### This project is a backend service for an e-commerce application built using Java Spring Boot. It includes features like JWT-based authentication, role-based access control for "user" and "admin" roles, and CRUD operations for managing products and inventory by Admin and also CRUD operations for cart by user. This project also has  Paginated Product Search API that allows users to search for products based on name and also has mechanisms to handle concurrency during critical operations
 
 ## Prerequisites
 ### Java 17 or higher: Make sure Java is installed and configured in your environment.
